@@ -1,0 +1,441 @@
+WARNING:tensorflow:*******************************************************
+Epoch: 24, Step: 2510, Loss: 0.745917
+Epoch: 24, Step: 2520, Loss: 1.68651
+Epoch: 24, Step: 2530, Loss: 0.289808
+Epoch: 24, Step: 2540, Loss: 0.402295
+Epoch: 24, Step: 2550, Loss: 0.203002
+Epoch: 24, Step: 2560, Loss: 0.224164
+Epoch: 24, Step: 2570, Loss: 0.577209
+Epoch: 24, Step: 2580, Loss: 1.05551
+Epoch: 24, Step: 2590, Loss: 0.322124
+Epoch: 24, Step: 2600, Loss: 0.448296
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 24, Step: 2610, Loss: 0.216621
+Epoch: 24, Step: 2620, Loss: 0.303068
+Epoch: 24, Step: 2630, Loss: 0.50626
+Epoch: 24, Step: 2640, Loss: 0.367806
+Epoch: 24, Step: 2650, Loss: 0.302008
+Epoch: 24, Step: 2660, Loss: 0.334901
+Epoch: 24, Step: 2670, Loss: 0.219716
+Epoch: 24, Step: 2680, Loss: 0.198737
+Epoch: 24, Step: 2690, Loss: 0.204813
+Epoch: 24, Step: 2700, Loss: 0.219447
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 24, Step: 2710, Loss: 0.346216
+Epoch: 24, Step: 2720, Loss: 0.374037
+Epoch: 24, Step: 2730, Loss: 0.415552
+Epoch: 24, Step: 2740, Loss: 0.243094
+Epoch: 24, Step: 2750, Loss: 0.209592
+Epoch: 24, Step: 2760, Loss: 0.247752
+Epoch: 24, Step: 2770, Loss: 0.279555
+Epoch: 24, Step: 2780, Loss: 0.251431
+Epoch: 24, Step: 2790, Loss: 0.225659
+Epoch: 24, Step: 2800, Loss: 0.238166
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 24, Step: 2810, Loss: 0.405428
+Epoch: 24, Step: 2820, Loss: 0.220823
+Epoch: 24, Step: 2830, Loss: 0.195516
+Epoch: 24, Step: 2840, Loss: 0.191556
+Epoch: 24, Step: 2850, Loss: 0.204352
+Model saved in file: ./save/model.ckpt
+Epoch: 25, Step: 2500, Loss: 0.217406
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 25, Step: 2510, Loss: 0.229887
+Epoch: 25, Step: 2520, Loss: 0.2027
+Epoch: 25, Step: 2530, Loss: 0.273076
+Epoch: 25, Step: 2540, Loss: 0.571479
+Epoch: 25, Step: 2550, Loss: 0.406003
+Epoch: 25, Step: 2560, Loss: 0.813303
+Epoch: 25, Step: 2570, Loss: 0.244836
+Epoch: 25, Step: 2580, Loss: 0.228198
+Epoch: 25, Step: 2590, Loss: 0.262162
+Epoch: 25, Step: 2600, Loss: 0.328048
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 25, Step: 2610, Loss: 0.429823
+Epoch: 25, Step: 2620, Loss: 5.55594
+Epoch: 25, Step: 2630, Loss: 1.18342
+Epoch: 25, Step: 2640, Loss: 0.405834
+Epoch: 25, Step: 2650, Loss: 0.217983
+Epoch: 25, Step: 2660, Loss: 0.190322
+Epoch: 25, Step: 2670, Loss: 0.190314
+Epoch: 25, Step: 2680, Loss: 0.199536
+Epoch: 25, Step: 2690, Loss: 0.196951
+Epoch: 25, Step: 2700, Loss: 0.198327
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 25, Step: 2710, Loss: 0.25801
+Epoch: 25, Step: 2720, Loss: 0.238059
+Epoch: 25, Step: 2730, Loss: 0.237579
+Epoch: 25, Step: 2740, Loss: 0.251047
+Epoch: 25, Step: 2750, Loss: 0.241207
+Epoch: 25, Step: 2760, Loss: 0.326554
+Epoch: 25, Step: 2770, Loss: 0.236746
+Epoch: 25, Step: 2780, Loss: 0.200874
+Epoch: 25, Step: 2790, Loss: 0.188331
+Epoch: 25, Step: 2800, Loss: 0.18962
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 25, Step: 2810, Loss: 0.185286
+Epoch: 25, Step: 2820, Loss: 0.217933
+Epoch: 25, Step: 2830, Loss: 0.197485
+Epoch: 25, Step: 2840, Loss: 0.183923
+Epoch: 25, Step: 2850, Loss: 0.191508
+Epoch: 25, Step: 2860, Loss: 0.185567
+Epoch: 25, Step: 2870, Loss: 0.201844
+Epoch: 25, Step: 2880, Loss: 0.208501
+Epoch: 25, Step: 2890, Loss: 0.210835
+Epoch: 25, Step: 2900, Loss: 0.206775
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 25, Step: 2910, Loss: 0.192509
+Epoch: 25, Step: 2920, Loss: 0.369059
+Epoch: 25, Step: 2930, Loss: 0.442817
+Epoch: 25, Step: 2940, Loss: 6.60971
+Epoch: 25, Step: 2950, Loss: 0.250492
+Model saved in file: ./save/model.ckpt
+Epoch: 26, Step: 2600, Loss: 0.225715
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 26, Step: 2610, Loss: 0.205518
+Epoch: 26, Step: 2620, Loss: 0.221067
+Epoch: 26, Step: 2630, Loss: 0.232061
+Epoch: 26, Step: 2640, Loss: 0.182177
+Epoch: 26, Step: 2650, Loss: 0.268369
+Epoch: 26, Step: 2660, Loss: 0.227965
+Epoch: 26, Step: 2670, Loss: 0.183525
+Epoch: 26, Step: 2680, Loss: 0.184913
+Epoch: 26, Step: 2690, Loss: 0.264153
+Epoch: 26, Step: 2700, Loss: 0.226925
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 26, Step: 2710, Loss: 0.210443
+Epoch: 26, Step: 2720, Loss: 0.230215
+Epoch: 26, Step: 2730, Loss: 0.197409
+Epoch: 26, Step: 2740, Loss: 0.228921
+Epoch: 26, Step: 2750, Loss: 0.233113
+Epoch: 26, Step: 2760, Loss: 0.208891
+Epoch: 26, Step: 2770, Loss: 0.191138
+Epoch: 26, Step: 2780, Loss: 0.18073
+Epoch: 26, Step: 2790, Loss: 0.186257
+Epoch: 26, Step: 2800, Loss: 0.193206
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 26, Step: 2810, Loss: 0.24936
+Epoch: 26, Step: 2820, Loss: 0.360212
+Epoch: 26, Step: 2830, Loss: 0.201483
+Epoch: 26, Step: 2840, Loss: 0.184739
+Epoch: 26, Step: 2850, Loss: 0.199414
+Epoch: 26, Step: 2860, Loss: 0.268522
+Epoch: 26, Step: 2870, Loss: 0.209383
+Epoch: 26, Step: 2880, Loss: 0.179764
+Epoch: 26, Step: 2890, Loss: 0.306326
+Epoch: 26, Step: 2900, Loss: 0.819942
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 26, Step: 2910, Loss: 0.192766
+Epoch: 26, Step: 2920, Loss: 0.24792
+Epoch: 26, Step: 2930, Loss: 0.239279
+Epoch: 26, Step: 2940, Loss: 0.446917
+Epoch: 26, Step: 2950, Loss: 0.200662
+Epoch: 26, Step: 2960, Loss: 0.254604
+Epoch: 26, Step: 2970, Loss: 0.285155
+Epoch: 26, Step: 2980, Loss: 0.306746
+Epoch: 26, Step: 2990, Loss: 0.206573
+Epoch: 26, Step: 3000, Loss: 0.177777
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 26, Step: 3010, Loss: 0.17593
+Epoch: 26, Step: 3020, Loss: 0.253732
+Epoch: 26, Step: 3030, Loss: 0.47968
+Epoch: 26, Step: 3040, Loss: 0.391861
+Epoch: 26, Step: 3050, Loss: 0.956433
+Model saved in file: ./save/model.ckpt
+Epoch: 27, Step: 2700, Loss: 1.0969
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 27, Step: 2710, Loss: 0.44135
+Epoch: 27, Step: 2720, Loss: 0.278774
+Epoch: 27, Step: 2730, Loss: 0.266796
+Epoch: 27, Step: 2740, Loss: 0.178543
+Epoch: 27, Step: 2750, Loss: 0.175839
+Epoch: 27, Step: 2760, Loss: 0.205166
+Epoch: 27, Step: 2770, Loss: 0.29776
+Epoch: 27, Step: 2780, Loss: 0.309653
+Epoch: 27, Step: 2790, Loss: 0.213364
+Epoch: 27, Step: 2800, Loss: 1.30092
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 27, Step: 2810, Loss: 0.335713
+Epoch: 27, Step: 2820, Loss: 0.574808
+Epoch: 27, Step: 2830, Loss: 0.187986
+Epoch: 27, Step: 2840, Loss: 0.198264
+Epoch: 27, Step: 2850, Loss: 0.236166
+Epoch: 27, Step: 2860, Loss: 0.32571
+Epoch: 27, Step: 2870, Loss: 0.538085
+Epoch: 27, Step: 2880, Loss: 0.24632
+Epoch: 27, Step: 2890, Loss: 0.177461
+Epoch: 27, Step: 2900, Loss: 0.269273
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 27, Step: 2910, Loss: 0.486832
+Epoch: 27, Step: 2920, Loss: 0.506066
+Epoch: 27, Step: 2930, Loss: 1.36807
+Epoch: 27, Step: 2940, Loss: 0.617318
+Epoch: 27, Step: 2950, Loss: 0.172683
+Epoch: 27, Step: 2960, Loss: 0.17129
+Epoch: 27, Step: 2970, Loss: 0.236278
+Epoch: 27, Step: 2980, Loss: 0.19175
+Epoch: 27, Step: 2990, Loss: 0.267839
+Epoch: 27, Step: 3000, Loss: 0.458
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 27, Step: 3010, Loss: 0.454543
+Epoch: 27, Step: 3020, Loss: 0.256329
+Epoch: 27, Step: 3030, Loss: 0.193998
+Epoch: 27, Step: 3040, Loss: 0.186726
+Epoch: 27, Step: 3050, Loss: 0.231453
+Epoch: 27, Step: 3060, Loss: 0.370653
+Epoch: 27, Step: 3070, Loss: 0.365853
+Epoch: 27, Step: 3080, Loss: 0.213611
+Epoch: 27, Step: 3090, Loss: 0.255949
+Epoch: 27, Step: 3100, Loss: 0.296187
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 27, Step: 3110, Loss: 0.193866
+Epoch: 27, Step: 3120, Loss: 0.168695
+Epoch: 27, Step: 3130, Loss: 0.218188
+Epoch: 27, Step: 3140, Loss: 0.175944
+Epoch: 27, Step: 3150, Loss: 0.199622
+Model saved in file: ./save/model.ckpt
+Epoch: 28, Step: 2800, Loss: 0.188485
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 28, Step: 2810, Loss: 0.24666
+Epoch: 28, Step: 2820, Loss: 0.482405
+Epoch: 28, Step: 2830, Loss: 0.283932
+Epoch: 28, Step: 2840, Loss: 0.569851
+Epoch: 28, Step: 2850, Loss: 0.2108
+Epoch: 28, Step: 2860, Loss: 0.195258
+Epoch: 28, Step: 2870, Loss: 0.192685
+Epoch: 28, Step: 2880, Loss: 0.194747
+Epoch: 28, Step: 2890, Loss: 0.216287
+Epoch: 28, Step: 2900, Loss: 3.92707
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 28, Step: 2910, Loss: 2.47173
+Epoch: 28, Step: 2920, Loss: 0.180692
+Epoch: 28, Step: 2930, Loss: 0.171503
+Epoch: 28, Step: 2940, Loss: 0.17203
+Epoch: 28, Step: 2950, Loss: 0.181272
+Epoch: 28, Step: 2960, Loss: 0.168267
+Epoch: 28, Step: 2970, Loss: 0.287907
+Epoch: 28, Step: 2980, Loss: 0.373881
+Epoch: 28, Step: 2990, Loss: 0.25502
+Epoch: 28, Step: 3000, Loss: 0.432214
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 28, Step: 3010, Loss: 0.210801
+Epoch: 28, Step: 3020, Loss: 0.232969
+Epoch: 28, Step: 3030, Loss: 0.177163
+Epoch: 28, Step: 3040, Loss: 0.191806
+Epoch: 28, Step: 3050, Loss: 0.224851
+Epoch: 28, Step: 3060, Loss: 0.174168
+Epoch: 28, Step: 3070, Loss: 0.183183
+Epoch: 28, Step: 3080, Loss: 0.24003
+Epoch: 28, Step: 3090, Loss: 0.176275
+Epoch: 28, Step: 3100, Loss: 0.200837
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 28, Step: 3110, Loss: 0.27397
+Epoch: 28, Step: 3120, Loss: 0.179382
+Epoch: 28, Step: 3130, Loss: 0.185878
+Epoch: 28, Step: 3140, Loss: 0.278982
+Epoch: 28, Step: 3150, Loss: 0.226584
+Epoch: 28, Step: 3160, Loss: 0.170625
+Epoch: 28, Step: 3170, Loss: 0.316806
+Epoch: 28, Step: 3180, Loss: 0.177807
+Epoch: 28, Step: 3190, Loss: 0.165971
+Epoch: 28, Step: 3200, Loss: 0.25977
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 28, Step: 3210, Loss: 0.202068
+Epoch: 28, Step: 3220, Loss: 5.1958
+Epoch: 28, Step: 3230, Loss: 0.706842
+Epoch: 28, Step: 3240, Loss: 0.167677
+Epoch: 28, Step: 3250, Loss: 0.173249
+Model saved in file: ./save/model.ckpt
+Epoch: 29, Step: 2900, Loss: 0.195289
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 29, Step: 2910, Loss: 0.218875
+Epoch: 29, Step: 2920, Loss: 0.17988
+Epoch: 29, Step: 2930, Loss: 0.182352
+Epoch: 29, Step: 2940, Loss: 0.189121
+Epoch: 29, Step: 2950, Loss: 0.168329
+Epoch: 29, Step: 2960, Loss: 0.191001
+Epoch: 29, Step: 2970, Loss: 0.168675
+Epoch: 29, Step: 2980, Loss: 0.178721
+Epoch: 29, Step: 2990, Loss: 0.166643
+Epoch: 29, Step: 3000, Loss: 0.221336
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 29, Step: 3010, Loss: 0.187478
+Epoch: 29, Step: 3020, Loss: 0.249649
+Epoch: 29, Step: 3030, Loss: 0.198527
+Epoch: 29, Step: 3040, Loss: 0.221383
+Epoch: 29, Step: 3050, Loss: 0.196869
+Epoch: 29, Step: 3060, Loss: 0.217293
+Epoch: 29, Step: 3070, Loss: 0.22438
+Epoch: 29, Step: 3080, Loss: 0.240725
+Epoch: 29, Step: 3090, Loss: 0.283892
+Epoch: 29, Step: 3100, Loss: 0.35262
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 29, Step: 3110, Loss: 0.359268
+Epoch: 29, Step: 3120, Loss: 0.17917
+Epoch: 29, Step: 3130, Loss: 0.172934
+Epoch: 29, Step: 3140, Loss: 0.174307
+Epoch: 29, Step: 3150, Loss: 0.17129
+Epoch: 29, Step: 3160, Loss: 0.180729
+Epoch: 29, Step: 3170, Loss: 0.179137
+Epoch: 29, Step: 3180, Loss: 0.564494
+Epoch: 29, Step: 3190, Loss: 0.163187
+Epoch: 29, Step: 3200, Loss: 0.221644
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 29, Step: 3210, Loss: 0.259003
+Epoch: 29, Step: 3220, Loss: 0.438451
+Epoch: 29, Step: 3230, Loss: 0.197257
+Epoch: 29, Step: 3240, Loss: 0.182258
+Epoch: 29, Step: 3250, Loss: 0.244141
+Epoch: 29, Step: 3260, Loss: 0.289114
+Epoch: 29, Step: 3270, Loss: 0.18076
+Epoch: 29, Step: 3280, Loss: 0.171009
+Epoch: 29, Step: 3290, Loss: 0.16097
+Epoch: 29, Step: 3300, Loss: 0.176937
+WARNING:tensorflow:*******************************************************
+WARNING:tensorflow:TensorFlow's V1 checkpoint format has been deprecated.
+WARNING:tensorflow:Consider switching to the more efficient V2 format:
+WARNING:tensorflow:   `tf.train.Saver(write_version=tf.train.SaverDef.V2)`
+WARNING:tensorflow:now on by default.
+WARNING:tensorflow:*******************************************************
+Epoch: 29, Step: 3310, Loss: 0.209547
+Epoch: 29, Step: 3320, Loss: 0.295292
+Epoch: 29, Step: 3330, Loss: 0.338076
+Epoch: 29, Step: 3340, Loss: 0.708931
+Epoch: 29, Step: 3350, Loss: 0.469686
+Model saved in file: ./save/model.ckpt
+
