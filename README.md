@@ -12,8 +12,7 @@ For the orginal [dataset](https://github.com/SullyChen/Autopilot-TensorFlow)
 To run the visualization:
 `python3 ./run_dataset.py`
 
-To Train the network with your data or new architecture add your data in driving_dataset folder and run :
-`python3 train.py'
+To Train the network with your data or new architecture add your data in driving_dataset folder and run : `python3 train.py`
 
 
 ` 
